@@ -4,6 +4,8 @@
 
 
 🔭 I’m currently looking for Python/Django internships/job
-🌱 I’m currently learning React for front end Django for backend
+
+🌱 I’m currently learning React for frontend Django for backend
+
 📫 reach me at tanishvora99@gmail.com
 
