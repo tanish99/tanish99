@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### Social Media
 
-[<img src="old-instagram-logo.jpg" height="40">](https://www.instagram.com/tanish_vora/ "LCO")&nbsp;&nbsp;[<img src="174857.png" height="40">](https://www.linkedin.com/in/tanish-vora/ "LC1")
+[<img src="old-instagram-logo.jpg" height="40">](https://www.instagram.com/tanish_vora/ "visit")&nbsp;&nbsp;[<img src="174857.png" height="40">](https://www.linkedin.com/in/tanish-vora/ "visit")
 
 
 ![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanish99&theme=default&show_icons=true)
