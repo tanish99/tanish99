@@ -3,6 +3,7 @@
 
 
 
-🔭 I’m currently looking for Python/Django internships/job
 
-🌱 I’m currently learning React for frontend Django for backend
+🌱 I’m currently learning Everything
+
+[instagram]: https://instagram.com/tanish_vora
