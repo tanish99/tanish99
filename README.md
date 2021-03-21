@@ -6,4 +6,4 @@
 
 🌱 I’m currently learning Everything
 
-[instagram]: https://instagram.com/tanish_vora
+https://github-readme-stats.vercel.app/api?username=tanish99&theme=default&show_icons=true
